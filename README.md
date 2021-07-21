@@ -4,6 +4,8 @@
 
 Hello world!
 
+And then another!
+
 Sharing React components between projects is a very effective way to speed your app development and to ensure UI consistency.
 
 Today, thanks to powerful tools like  Bit, it becomes much easier to share React components and, as a great side effect, build a stunning reusable UI library.
